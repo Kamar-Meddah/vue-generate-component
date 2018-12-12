@@ -18,8 +18,8 @@ vgc footer
 ```
 Will generate five files:
 
-**footer.component.js**
-```javascript
+**footer.component.ts**
+```typescript
 import Vue from 'vue';
 import Component from 'vue-class-component';
 
